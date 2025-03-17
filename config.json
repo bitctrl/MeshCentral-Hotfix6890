@@ -1,0 +1,18 @@
+{
+  "name": "Hotfix6890",
+  "shortName": "hotfix6890",
+  "version": "0.0.1",
+  "author": "Daniel Hammerschmidt",
+  "description": "Interim hotfix for https://github.com/Ylianst/MeshCentral/issues/6890",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/bitctrl/MeshCentral-Hotfix6890",
+  "changelogUrl": "https://raw.githubusercontent.com/bitctrl/MeshCentral-Hotfix6890/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/bitctrl/MeshCentral-Hotfix6890/main/config.json",
+  "downloadUrl": "https://github.com/bitctrl/MeshCentral-Hotfix6890/archive/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitctrl/MeshCentral-Hotfix6890.git"
+  },
+  "versionHistoryUrl": "https://github.com/bitctrl/MeshCentral-Hotfix6890/tags",
+  "meshCentralCompat": ">=1.1.36"
+}
